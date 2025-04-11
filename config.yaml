@@ -1,0 +1,15 @@
+monitor:
+  memory_threshold: 16106127360  # 15GB in bytes
+  timeout: 3600  # 1 hour
+
+database:
+  path: "../../data/db/"  # Path to database files
+
+logging:
+  log_dir: "logs"  # Directory for logs
+
+results:
+  output_dir: "results"  # Directory for saving results
+
+algorithm:
+  name: "MATILDA"  # Default algorithm

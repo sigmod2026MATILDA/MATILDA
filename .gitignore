@@ -1,0 +1,10 @@
+venv/
+database/databases/
+data/db/
+src/logs
+src/results
+src/debug/
+venv*
+__pycache__/
+**/__pycache__/*
+idea/
